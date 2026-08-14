@@ -1,4 +1,4 @@
-# Haidra Ahmed Tarraf
+# Haidra Ahmad Tarraf
 
 Software Engineering and IT student with a focus on web development, core computer science fundamentals, and competitive programming. Currently deepening my knowledge in software architecture and distributed systems.
 
