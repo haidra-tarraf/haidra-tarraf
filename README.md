@@ -1,4 +1,25 @@
-## Hi there 👋
+# Haidara Ahmed Tarraf
+
+Software Engineering and IT student with a focus on web development, core computer science fundamentals, and competitive programming. Currently deepening my knowledge in software architecture and distributed systems.
+
+## Technical Skills
+
+- **Languages:** C++, Java, JavaScript (ES6+)
+- **Frontend Development:** HTML5, CSS, DOM Manipulation, Fetch API
+- **Databases & Concepts:** SQL Server, Relational Normalization, Transaction Concurrency
+- **Tools & Environments:** GitHub, VS Code
+
+## Competitive Programming
+
+- **Codeforces:** [your_handle](https://codeforces.com/profile/Haidra_Tarraf)
+
+## Contact & Socials
+
+- **Email:** [your-email@example.com](mailto:haidratrraf351@gmail.com)
+- **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/haidra_tarraf-89885a3aa)
+- **Telegram:** [@your_handle](https://t.me/Haidra_Tarraf)
+- **Facebook:** [facebook.com/your-profile](https://facebook.com/haidra.tarraf)
+- **Instagram:** [@your_handle](https://instagram.com/haidra_tarraf)
 
 <!--
 **haidra-tarraf/haidra-tarraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
