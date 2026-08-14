@@ -5,7 +5,7 @@ Software Engineering and IT student with a focus on web development, core comput
 ## Technical Skills
 
 - **Languages:** C++, Java, JavaScript (ES6+)
-- **Frontend Development:** HTML5, CSS, DOM Manipulation, Fetch API
+- **Frontend Development:** HTML5, CSS3, DOM Manipulation, Fetch API
 - **Databases & Concepts:** SQL Server, Relational Normalization, Transaction Concurrency
 - **Tools & Environments:** GitHub, VS Code
 
